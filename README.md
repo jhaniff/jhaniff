@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building React Native apps<br>🌱 I’m currently learning React/React Native and Flask<br>💬 Ask me about automation testing
+🔭 I’m currently working on building React Native apps and webapps<br>🌱 I’m currently learning React/React Native and Flask<br>💬 Ask me about automation testing
 
 
 ## 🌐 Socials:
